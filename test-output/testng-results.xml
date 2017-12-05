@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8462" started-at="2017-12-05T16:54:03Z" finished-at="2017-12-05T16:54:11Z">
+    <groups>
+    </groups>
+    <test name="TestNgMavenTest" duration-ms="8462" started-at="2017-12-05T16:54:03Z" finished-at="2017-12-05T16:54:11Z">
+      <class name="com.javacodegeeks.testng.maven.testNgMaven.Sr">
+        <test-method status="PASS" signature="exampleOfTestNgMaven()[pri:0, instance:com.javacodegeeks.testng.maven.testNgMaven.Sr@29774679]" name="exampleOfTestNgMaven" duration-ms="1" started-at="2017-12-05T11:54:08Z" finished-at="2017-12-05T11:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven -->
+      </class> <!-- com.javacodegeeks.testng.maven.testNgMaven.Sr -->
+      <class name="com.javacodegeeks.testng.maven.testNgMaven.Chrome">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.maven.testNgMaven.Chrome@c038203]" name="initDriver" is-config="true" duration-ms="5777" started-at="2017-12-05T11:53:57Z" finished-at="2017-12-05T11:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="searchTestNGInGoogle()[pri:0, instance:com.javacodegeeks.testng.maven.testNgMaven.Chrome@c038203]" name="searchTestNGInGoogle" duration-ms="3194" started-at="2017-12-05T11:54:08Z" finished-at="2017-12-05T11:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTestNGInGoogle -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.maven.testNgMaven.Chrome@c038203]" name="quitDriver" is-config="true" duration-ms="310" started-at="2017-12-05T11:54:11Z" finished-at="2017-12-05T11:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.javacodegeeks.testng.maven.testNgMaven.Chrome -->
+      <class name="com.javacodegeeks.testng.maven.testNgMaven.App">
+        <test-method status="PASS" signature="exampleOfTestNgMaven()[pri:0, instance:com.javacodegeeks.testng.maven.testNgMaven.App@61832929]" name="exampleOfTestNgMaven" duration-ms="5" started-at="2017-12-05T11:54:03Z" finished-at="2017-12-05T11:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven -->
+      </class> <!-- com.javacodegeeks.testng.maven.testNgMaven.App -->
+      <class name="com.javacodegeeks.testng.maven.testNgMaven.Version$TestChromeBrowser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.javacodegeeks.testng.maven.testNgMaven.Version$TestChromeBrowser@3ffc5af1]" name="setUp" is-config="true" duration-ms="2726" started-at="2017-12-05T11:54:03Z" finished-at="2017-12-05T11:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGooglePageTitleInIEBrowser()[pri:0, instance:com.javacodegeeks.testng.maven.testNgMaven.Version$TestChromeBrowser@3ffc5af1]" name="testGooglePageTitleInIEBrowser" duration-ms="1353" started-at="2017-12-05T11:54:05Z" finished-at="2017-12-05T11:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGooglePageTitleInIEBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.javacodegeeks.testng.maven.testNgMaven.Version$TestChromeBrowser@3ffc5af1]" name="tearDown" is-config="true" duration-ms="1170" started-at="2017-12-05T11:54:07Z" finished-at="2017-12-05T11:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.javacodegeeks.testng.maven.testNgMaven.Version$TestChromeBrowser -->
+    </test> <!-- TestNgMavenTest -->
+  </suite> <!-- Suite -->
+</testng-results>
